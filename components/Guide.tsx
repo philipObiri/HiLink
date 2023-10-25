@@ -2,6 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 
 const Guide = () => {
+  
   return (
     <section className="flexCenter flex-col">
       <div className="padding-container max-container w-full pb-24">
